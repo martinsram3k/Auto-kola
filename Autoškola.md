@@ -74,3 +74,25 @@ Cokoliv, co by mohlo ohrozit nebo omezit bezpečnost a plynulost provozu (např.
 * Trvá od soumraku do svítání.
 * Zahrnuje mlhu, sněžení, hustý déšť nebo jízdu v tunelu.
 * **Povinnost:** V těchto případech musíme svítit obrysovými a potkávacími světly (denní svícení nestačí).
+## obytná zona
+Max 20 kmh/h
+kdyz jedemem z obytne zony pryc tak vsem davame prednost 
+parkovat jen na mistech urcenich 
+## Objíždění 
+Když objýždíme tak blinkr
+je lepší dávat blinkr moc nez ho nedávat
+cokoliv objíždíme dávame prednost v jízdě a blikáme
+dáváme přednost protijedoucím
+### Objíždené cyklysty
++30 kmh tak 1.5 metru
+-30 kmg tak 1 metr
+## Předjíždění
+nesmíme omezit ani ohrozit předjíždející a proti jedoucí auto
+auto za námi muzeme omezit
+předjíždení v pravo při odbočováni auto musí dávat prostor aby ho ostatní mohli "podjet"
+pripojovaci pruh nesmíme omezit a radime se az vzadu a musime dosahnout maximalní rychlosti
+kdyz je plná čára tak ciklistu muzeme predjet ale nesime omezit a ohrozit protijedoucí 
+zakaz predjizdeni pred zatackou ani horizont ani kdyz se nemame kam zaradit ostatní nemají povinost vas pustit nakladní auto ma povinost vam tam nechat místo
+zakaz predjizdeni pred zeleznicnim prejezdem pred prechodem a na prechodu 
+predjizdeni na krzovatce nesmíme predjizdet ![[Snímek obrazovky 2026-05-28 v 19.32.51.png]]
+v této situaci muzeme predjet 
